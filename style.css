@@ -29,7 +29,7 @@ p {
   width: 800px;
 }
 
-div {
+div, h3 {
   display: block;
   float: left;
 }
