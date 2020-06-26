@@ -31,5 +31,10 @@ p {
 
 div, h3 {
   display: block;
+  background-color: red;
   float: left;
+}
+
+div {
+  
 }
