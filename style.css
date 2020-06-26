@@ -24,3 +24,12 @@ figcaption {
   font-size: 12px;
   text-align: center;
 }
+
+p {
+  width: 800px;
+}
+
+div {
+  display: block;
+  float: left; 
+}
